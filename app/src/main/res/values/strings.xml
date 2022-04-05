@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jujutsu Kaisen</string>
+    <string name="jujutsu_kaisen">Jujutsu Kaisen</string>
+    <string name="masukkan_nama_pengguna">masukkan_nama_pengguna</string>
+    <string name="masukkan_password">masukkan_password</string>
+    <string name="login">login</string>
+    <string name="todo">TODO</string>
+    <string name="selamat_datang">selamat_datang</string>
+    <string name="tentang_pengguna">tentang_pengguna</string>
+    <string name="cek_github">cek_github</string>
+    <string name="pengguna">pengguna</string>
+    <string name="finish">Finish</string>
+    <string name="welcome">welcome</string>
+    <string name="masukan_password">masukan password</string>
+    <string name="masukan_nama_pengguna">masukan nama pengguna</string>
+</resources>
